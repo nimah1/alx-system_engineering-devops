@@ -1,2 +1,2 @@
-0-current_working_directory prints working directory
-1-listit-lists content of directory
+2-bring_me_home goes to home directory
+2-bring_me_home goes to home directory
